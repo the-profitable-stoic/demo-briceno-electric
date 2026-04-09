@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Briceno Electric",
+    "phone": "+16615999646",
+    "category": "electrician",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's Trusted Electricians",
+      "heroSubline": "Powering homes and businesses with reliable and expert electrical services. Serving Bakersfield and the surrounding areas.",
+      "aboutTitle": "Reliable Electrical Solutions for Bakersfield",
+      "aboutText": [
+        "Briceno Electric started with a simple mission: to provide Bakersfield with honest and dependable electrical services. Founded by a local electrician with deep roots in the community, we understand the unique needs of Kern County residents and businesses.",
+        "We believe in doing the job right the first time. Our team of licensed and experienced electricians are committed to providing quality workmanship, using only the best materials, and adhering to the highest safety standards. We treat every project, big or small, with the same level of professionalism and attention to detail.",
+        "Briceno Electric is proud to be a part of the Bakersfield community. We actively support local initiatives and are dedicated to providing our neighbors with reliable electrical services they can count on. We're committed to keeping Bakersfield powered safely and efficiently."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Licensed and highly skilled electricians with years of experience in the Bakersfield area."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time and get the job done right, every time. Count on us for dependable electrical solutions."
+        },
+        {
+          "title": "Safety First",
+          "description": "We prioritize safety in every project, adhering to all codes and regulations to protect your home and family."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear and upfront pricing for all our services."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Estimate Today",
+      "ctaSubline": "Contact Briceno Electric for expert electrical services in Bakersfield and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "electrical-repairs",
+        "name": "Electrical Repairs",
+        "shortDescription": "Fast and reliable electrical repair services for your home or business.",
+        "description": "From flickering lights to faulty outlets, electrical problems can be frustrating and potentially dangerous. Briceno Electric offers comprehensive electrical repair services to address any issue you may be experiencing. Our experienced electricians are equipped to diagnose and repair a wide range of electrical problems, ensuring the safety and functionality of your electrical system.\n\nWe understand that electrical emergencies can happen at any time. That's why we offer 24/7 emergency repair services to handle urgent situations promptly. Whether it's a power outage, a short circuit, or any other electrical emergency, you can rely on us to be there when you need us most.\n\nOur repair services include troubleshooting, wiring repairs, outlet and switch replacements, circuit breaker repairs, and more. We use only quality materials and follow industry best practices to ensure lasting and reliable repairs. We also provide thorough inspections to identify potential problems and prevent future issues.",
+        "process": [
+          "Step 1: Contact us with your electrical repair needs.",
+          "Step 2: We'll schedule a convenient appointment time.",
+          "Step 3: Our electrician will diagnose the problem and provide a detailed estimate.",
+          "Step 4: We'll complete the repairs efficiently and effectively."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and licensed electricians",
+          "24/7 emergency repairs",
+          "Transparent pricing"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We offer 24/7 emergency repair services and strive to respond as quickly as possible, typically within the hour, depending on your location in the Bakersfield area."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are fully licensed and insured for your peace of mind. We adhere to all safety regulations and industry standards."
+          },
+          {
+            "question": "Do you offer upfront pricing?",
+            "answer": "Yes, we provide a detailed estimate before starting any work, so you know exactly what to expect. We believe in transparent and honest pricing."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installations",
+        "name": "Electrical Installations",
+        "shortDescription": "Expert electrical installation services for new construction and remodels.",
+        "description": "Whether you're building a new home, remodeling your kitchen, or adding an addition, Briceno Electric provides expert electrical installation services to meet your needs. Our experienced electricians are skilled in all aspects of electrical installations, from wiring and lighting to outlets and appliances.\n\nWe work closely with homeowners, builders, and contractors to ensure that all installations are done safely, efficiently, and according to code. We use only quality materials and follow industry best practices to ensure lasting and reliable performance. We also provide detailed documentation and inspections to ensure compliance with all regulations.\n\nOur installation services include wiring for new construction, outlet and switch installations, lighting installations (including recessed lighting and chandeliers), appliance wiring, electrical panel upgrades, and more. We can also install specialized electrical systems, such as home automation systems and electric vehicle charging stations.",
+        "process": [
+          "Step 1: Contact us to discuss your electrical installation needs.",
+          "Step 2: We'll provide a detailed estimate and timeline for the project.",
+          "Step 3: Our electricians will complete the installation efficiently and safely.",
+          "Step 4: We'll provide a final inspection and documentation."
+        ],
+        "benefits": [
+          "Expert installation services",
+          "Quality materials and workmanship",
+          "Compliance with all codes and regulations",
+          "Detailed documentation and inspections"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer electrical design services?",
+            "answer": "Yes, we can work with you to design an electrical system that meets your specific needs and preferences. We can help you choose the right lighting fixtures, outlets, and appliances for your home."
+          },
+          {
+            "question": "What type of wiring do you use?",
+            "answer": "We use only high-quality wiring that meets or exceeds all industry standards. We typically use copper wiring for most applications, as it is the most reliable and durable choice."
+          },
+          {
+            "question": "How long will the installation take?",
+            "answer": "The duration of the installation will depend on the scope of the project. We will provide you with a detailed timeline upfront, so you know what to expect."
+          }
+        ]
+      },
+      {
+        "slug": "panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for increased capacity and safety.",
+        "description": "If your electrical panel is outdated, undersized, or damaged, it may be time for an upgrade. Briceno Electric provides professional electrical panel upgrade services to ensure the safety and reliability of your electrical system. An upgraded panel can provide increased capacity to handle modern electrical demands, such as new appliances, home additions, and electric vehicle charging stations.\n\nOur experienced electricians can assess your current electrical panel and recommend the best upgrade option for your needs. We handle all aspects of the upgrade process, including removing the old panel, installing the new panel, and ensuring that all wiring is properly connected and grounded. We also obtain all necessary permits and inspections to ensure compliance with local codes.\n\nA panel upgrade can also improve the safety of your home by replacing outdated or damaged components. Old panels can be a fire hazard, so upgrading to a new panel can provide peace of mind. We also offer surge protection to protect your valuable electronics from power surges.",
+        "process": [
+          "Step 1: Contact us for an electrical panel assessment.",
+          "Step 2: We'll recommend the best upgrade option for your needs.",
+          "Step 3: We'll obtain all necessary permits and schedule the upgrade.",
+          "Step 4: We'll complete the upgrade safely and efficiently."
+        ],
+        "benefits": [
+          "Increased electrical capacity",
+          "Improved safety",
+          "Protection from power surges",
+          "Compliance with local codes"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs that you may need an upgrade include frequent tripped breakers, flickering lights, and an outdated electrical panel. If you're unsure, we can provide a professional assessment."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "An electrical panel upgrade typically takes one day to complete. We'll work efficiently to minimize any disruption to your home."
+          },
+          {
+            "question": "Will I need to turn off the power during the upgrade?",
+            "answer": "Yes, we will need to turn off the power to your home during the upgrade. We'll provide you with advance notice so you can plan accordingly."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-solutions",
+        "name": "Lighting Solutions",
+        "shortDescription": "Enhance your home with custom lighting design and installation services.",
+        "description": "Briceno Electric offers comprehensive lighting solutions to enhance the beauty, functionality, and energy efficiency of your home or business. From recessed lighting and chandeliers to outdoor lighting and landscape lighting, we can design and install a lighting system that meets your specific needs and preferences. We understand that lighting can dramatically change the feel of a space, especially in Bakersfield where we spend a lot of time indoors avoiding the heat.\n\nOur experienced electricians can work with you to create a custom lighting design that complements your décor and enhances your lifestyle. We can help you choose the right lighting fixtures, control systems, and energy-efficient options to create the perfect ambiance. We handle all aspects of the installation process, from wiring and fixture mounting to control system programming.\n\nWe also offer lighting repair and maintenance services to keep your lighting system in top condition. Whether it's a burned-out bulb, a faulty switch, or a damaged fixture, we can quickly and efficiently address any lighting issue.",
+        "process": [
+          "Step 1: Contact us to discuss your lighting needs.",
+          "Step 2: We'll create a custom lighting design and provide an estimate.",
+          "Step 3: Our electricians will install the lighting system efficiently and safely.",
+          "Step 4: We'll provide ongoing repair and maintenance services."
+        ],
+        "benefits": [
+          "Custom lighting design",
+          "Energy-efficient options",
+          "Enhanced ambiance",
+          "Professional installation"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is highly energy-efficient, long-lasting, and produces very little heat. It can also save you money on your energy bills and reduce your carbon footprint."
+          },
+          {
+            "question": "Can you install smart lighting systems?",
+            "answer": "Yes, we can install and program smart lighting systems that allow you to control your lights remotely using your smartphone or tablet."
+          },
+          {
+            "question": "Do you offer outdoor lighting solutions?",
+            "answer": "Yes, we offer a wide range of outdoor lighting solutions, including landscape lighting, security lighting, and patio lighting."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-surge-protection",
+        "name": "Whole-House Surge Protection",
+        "shortDescription": "Protect your electronics with whole-house surge protection.",
+        "description": "Power surges can damage or destroy your valuable electronics, including computers, televisions, and appliances. Briceno Electric offers whole-house surge protection to protect your entire home from power surges caused by lightning, utility problems, or internal electrical issues. A whole-house surge protector is installed at your electrical panel and provides a comprehensive layer of protection for all of your electrical devices.\n\nOur experienced electricians can assess your electrical system and recommend the best surge protection solution for your needs. We install high-quality surge protectors that meet or exceed all industry standards. We also provide ongoing maintenance and testing to ensure that your surge protector is functioning properly.\n\nProtecting your electronics from power surges can save you money and prevent data loss. A whole-house surge protector is a small investment that can provide significant peace of mind.",
+        "process": [
+          "Step 1: Contact us for a surge protection assessment.",
+          "Step 2: We'll recommend the best surge protection solution for your needs.",
+          "Step 3: Our electricians will install the surge protector at your electrical panel.",
+          "Step 4: We'll provide ongoing maintenance and testing."
+        ],
+        "benefits": [
+          "Comprehensive surge protection",
+          "Protection for all electronics",
+          "Prevention of data loss",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between a surge protector and a power strip?",
+            "answer": "A surge protector is designed to protect your electronics from power surges, while a power strip simply provides multiple outlets. A surge protector contains components that divert excess voltage away from your devices."
+          },
+          {
+            "question": "How long does a surge protector last?",
+            "answer": "The lifespan of a surge protector can vary depending on the frequency and severity of power surges. We recommend testing your surge protector regularly to ensure that it is functioning properly."
+          },
+          {
+            "question": "Is whole-house surge protection worth the investment?",
+            "answer": "Yes, whole-house surge protection is a worthwhile investment that can protect your valuable electronics from costly damage."
+          }
+        ]
+      },
+      {
+        "slug": "ev-charger-installation",
+        "name": "EV Charger Installation",
+        "shortDescription": "Professional installation of electric vehicle (EV) chargers for your home.",
+        "description": "As electric vehicles become more popular, the demand for EV chargers is increasing. Briceno Electric provides professional EV charger installation services for your home, making it convenient and affordable to charge your electric vehicle. We can install a variety of EV chargers, including Level 2 chargers, which provide faster charging than standard wall outlets.\n\nOur experienced electricians can assess your electrical system and recommend the best EV charger for your needs. We handle all aspects of the installation process, including wiring, circuit breaker upgrades, and charger mounting. We also obtain all necessary permits and inspections to ensure compliance with local codes. Living in Bakersfield, you need to ensure you get the right charger to offset the extreme heat.\n\nInstalling an EV charger at your home can save you time and money by allowing you to charge your vehicle overnight. It also eliminates the need to visit public charging stations.",
+        "process": [
+          "Step 1: Contact us for an EV charger installation assessment.",
+          "Step 2: We'll recommend the best charger for your needs and provide an estimate.",
+          "Step 3: Our electricians will install the charger safely and efficiently.",
+          "Step 4: We'll obtain all necessary permits and inspections."
+        ],
+        "benefits": [
+          "Convenient home charging",
+          "Faster charging speeds",
+          "Reduced charging costs",
+          "Compliance with local codes"
+        ],
+        "faq": [
+          {
+            "question": "What is a Level 2 EV charger?",
+            "answer": "A Level 2 EV charger uses a 240-volt outlet and provides significantly faster charging than a standard 120-volt outlet."
+          },
+          {
+            "question": "How much does it cost to install an EV charger?",
+            "answer": "The cost of installation can vary depending on the type of charger and the complexity of the installation. We'll provide you with a detailed estimate upfront."
+          },
+          {
+            "question": "Do I need a permit to install an EV charger?",
+            "answer": "Yes, you typically need a permit to install an EV charger. We'll handle all the necessary paperwork and inspections."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Briceno Electric is proud to serve the Bakersfield community, providing top-notch electrical services to homes and businesses throughout the area. From troubleshooting electrical issues to installing new lighting fixtures and electrical panels, our team of experienced electricians is committed to delivering safe, reliable, and efficient solutions. We understand the unique electrical needs of Bakersfield residents and businesses, and we're dedicated to providing exceptional service that exceeds expectations.\n\nAs a locally owned and operated business, Briceno Electric is deeply invested in the Bakersfield community. We're committed to providing honest and transparent pricing, and we always go the extra mile to ensure our customers are completely satisfied. Whether you need a simple repair or a complex electrical installation, you can count on Briceno Electric to get the job done right.",
+        "localContext": "Bakersfield is a vibrant city known for its agricultural heritage and growing economy, located in the heart of the San Joaquin Valley.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Briceno Electric extends its expert electrical services to the Oildale area, providing reliable solutions for residential and commercial clients. Our team is well-versed in handling a variety of electrical needs, from routine maintenance and repairs to complex installations. We prioritize safety and efficiency, ensuring that all work is completed to the highest standards.\n\nWe understand the unique challenges faced by Oildale residents and businesses. Briceno Electric is committed to providing prompt and professional service, with a focus on customer satisfaction. We offer competitive pricing and transparent communication throughout the entire process. Give us a call, we are ready to serve you.",
+        "localContext": "Oildale is a historic community with strong ties to the oil industry, located just north of Bakersfield.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Briceno Electric is dedicated to serving the Rosedale community with comprehensive electrical services. We offer a full range of solutions, including electrical repairs, installations, and upgrades, tailored to meet the specific needs of our clients. Our team is equipped with the latest tools and technology to ensure efficient and effective service.\n\nAs a trusted electrical provider in the Bakersfield area, Briceno Electric is committed to providing exceptional customer service and reliable solutions. We understand the importance of safety and quality workmanship, and we always go the extra mile to exceed expectations. We are a phone call away from helping with your electrical needs.",
+        "localContext": "Rosedale is a growing suburban community located northwest of Bakersfield, known for its family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Briceno Electric proudly offers its electrical services to the Shafter community, providing reliable and efficient solutions for residential and commercial properties. From troubleshooting electrical issues to installing new lighting systems, our team is committed to delivering top-quality workmanship and exceptional customer service.\n\nAs a local business, Briceno Electric understands the unique needs of Shafter residents and businesses. We are dedicated to providing honest and transparent pricing, and we always strive to exceed expectations. Whether you need a simple repair or a complex electrical installation, you can rely on Briceno Electric to get the job done right.",
+        "localContext": "Shafter is an agricultural community known for its production of cotton, potatoes, and other crops.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Briceno Electric extends its expert electrical services to the Wasco area, providing reliable solutions for residential and commercial clients. Our team is well-versed in handling a variety of electrical needs, from routine maintenance and repairs to complex installations. We prioritize safety and efficiency, ensuring that all work is completed to the highest standards.\n\nWe understand the unique challenges faced by Wasco residents and businesses. Briceno Electric is committed to providing prompt and professional service, with a focus on customer satisfaction. We offer competitive pricing and transparent communication throughout the entire process.",
+        "localContext": "Wasco is a city known for its rose growing industry and annual Festival of Roses.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Briceno Electric is dedicated to serving the Lamont community with comprehensive electrical services. We offer a full range of solutions, including electrical repairs, installations, and upgrades, tailored to meet the specific needs of our clients. Our team is equipped with the latest tools and technology to ensure efficient and effective service.\n\nAs a trusted electrical provider in the Bakersfield area, Briceno Electric is committed to providing exceptional customer service and reliable solutions. We understand the importance of safety and quality workmanship, and we always go the extra mile to exceed expectations.",
+        "localContext": "Lamont is a primarily agricultural community located southeast of Bakersfield.",
+        "nearbyAreas": [
+          "Arvin",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Briceno Electric proudly offers its electrical services to the Arvin community, providing reliable and efficient solutions for residential and commercial properties. From troubleshooting electrical issues to installing new lighting systems, our team is committed to delivering top-quality workmanship and exceptional customer service.\n\nAs a local business, Briceno Electric understands the unique needs of Arvin residents and businesses. We are dedicated to providing honest and transparent pricing, and we always strive to exceed expectations. Whether you need a simple repair or a complex electrical installation, you can rely on Briceno Electric to get the job done right.",
+        "localContext": "Arvin is an agricultural city known for its grape and citrus production.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Briceno Electric extends its expert electrical services to the Tehachapi area, providing reliable solutions for residential and commercial clients. Our team is well-versed in handling a variety of electrical needs, from routine maintenance and repairs to complex installations. We prioritize safety and efficiency, ensuring that all work is completed to the highest standards.\n\nWe understand the unique challenges faced by Tehachapi residents and businesses. Briceno Electric is committed to providing prompt and professional service, with a focus on customer satisfaction. We offer competitive pricing and transparent communication throughout the entire process.",
+        "localContext": "Tehachapi is a mountain community known for its wind farms and scenic beauty.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Bakersfield"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Briceno Electric upgraded our ancient electrical panel and we couldn't be happier. They were professional, efficient, and explained everything clearly. Our lights don't flicker anymore when the AC kicks on! Highly recommend.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Outlet Repair",
+        "text": "Had a couple of outlets that weren't working. Briceno Electric came out quickly and fixed them both. The electrician was friendly and knowledgeable. Good service, fair price.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "Briceno Electric installed recessed lighting in our kitchen, and it looks amazing! They helped us choose the right fixtures and did a fantastic job with the installation. Very professional and clean work.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "EV Charger Installation",
+        "text": "Got my EV charger installed by Briceno Electric. They were super helpful in picking out the right one for my car and the installation was smooth. I was a little worried about the heat, but they made sure to install it in a shaded area. Great job!",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 4,
+        "service": "Wiring Repair",
+        "text": "We had some old wiring that needed to be replaced. Briceno Electric did a great job of replacing it and making sure everything was up to code. They were very thorough and explained everything they were doing.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Electrical Inspection",
+        "text": "We needed an electrical inspection for a home we were buying. Briceno Electric was very thorough and provided a detailed report. They helped us identify some potential problems and gave us recommendations for fixing them.",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Bakersfield Electrician | Briceno Electric",
+        "description": "Reliable electrician in Bakersfield, CA. Electrical repairs, installations, panel upgrades & more. Call Briceno Electric today!"
+      },
+      "about": {
+        "title": "About Briceno Electric | Bakersfield, CA",
+        "description": "Learn about Briceno Electric, your trusted electrician in Bakersfield. Experienced, licensed, and committed to quality workmanship."
+      },
+      "services": {
+        "title": "Electrical Services | Briceno Electric",
+        "description": "Comprehensive electrical services in Bakersfield. Repairs, installations, panel upgrades, lighting, EV chargers & more."
+      },
+      "contact": {
+        "title": "Contact Briceno Electric | Bakersfield, CA",
+        "description": "Contact Briceno Electric for reliable electrical services in Bakersfield. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Briceno Electric Reviews | Bakersfield, CA",
+        "description": "Read reviews from satisfied customers of Briceno Electric in Bakersfield. See why we're the trusted choice for electrical services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Briceno Electric",
+        "description": "Briceno Electric provides electrical services throughout Bakersfield and surrounding areas. Find out if we serve your location."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repairs": "/images/service-electrical-repairs.webp",
+      "electrical-installations": "/images/service-electrical-installations.webp",
+      "panel-upgrades": "/images/service-panel-upgrades.webp",
+      "lighting-solutions": "/images/service-lighting-solutions.webp",
+      "whole-house-surge-protection": "/images/service-whole-house-surge-protection.webp",
+      "ev-charger-installation": "/images/service-ev-charger-installation.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repairs": {
+        "src": "/images/service-electrical-repairs.webp",
+        "srcset": "/images/service-electrical-repairs-400w.webp 400w, /images/service-electrical-repairs-800w.webp 800w, /images/service-electrical-repairs-1200w.webp 1200w, /images/service-electrical-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installations": {
+        "src": "/images/service-electrical-installations.webp",
+        "srcset": "/images/service-electrical-installations-400w.webp 400w, /images/service-electrical-installations-800w.webp 800w, /images/service-electrical-installations-1200w.webp 1200w, /images/service-electrical-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "panel-upgrades": {
+        "src": "/images/service-panel-upgrades.webp",
+        "srcset": "/images/service-panel-upgrades-400w.webp 400w, /images/service-panel-upgrades-800w.webp 800w, /images/service-panel-upgrades-1200w.webp 1200w, /images/service-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-solutions": {
+        "src": "/images/service-lighting-solutions.webp",
+        "srcset": "/images/service-lighting-solutions-400w.webp 400w, /images/service-lighting-solutions-800w.webp 800w, /images/service-lighting-solutions-1200w.webp 1200w, /images/service-lighting-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-surge-protection": {
+        "src": "/images/service-whole-house-surge-protection.webp",
+        "srcset": "/images/service-whole-house-surge-protection-400w.webp 400w, /images/service-whole-house-surge-protection-800w.webp 800w, /images/service-whole-house-surge-protection-1200w.webp 1200w, /images/service-whole-house-surge-protection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ev-charger-installation": {
+        "src": "/images/service-ev-charger-installation.webp",
+        "srcset": "/images/service-ev-charger-installation-400w.webp 400w, /images/service-ev-charger-installation-800w.webp 800w, /images/service-ev-charger-installation-1200w.webp 1200w, /images/service-ev-charger-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
